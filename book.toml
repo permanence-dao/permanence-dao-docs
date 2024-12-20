@@ -1,0 +1,6 @@
+[book]
+authors = ["kukabi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Permanence DAO Documents"
