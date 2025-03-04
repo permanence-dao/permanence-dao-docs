@@ -6,5 +6,4 @@
 - [Membership Mandate](./membership_mandate.md)
 - [Voting Philosophy](./voting_philosophy.md)
 - [Voting Policy](./voting_policy.md)
-- [Reports](./reports.md)
-  - [Voting Statistics](./report/voting_statistics.md)
+- [Voting Statistics](./voting_statistics.md)
