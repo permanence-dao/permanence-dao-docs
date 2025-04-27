@@ -1,5 +1,15 @@
 ## Voting Statistics
 
+### March 2025
+
+✅ 45 referenda voted on  
+🤖 9 referenda auto-voted (Tip Bot, whitelisted, malicious, default nay)  
+🛠 36 referenda voted on by members  
+🗳 299 off-chain member votes  
+📝 256 feedback submissions  
+📈 **Avg. member participation: 83% (-7% vs. February)**  
+💬 **Avg. member feedback rate: 71% (-8% vs. February)**
+
 ### February 2025
 
 ✅ 36 referenda voted on  

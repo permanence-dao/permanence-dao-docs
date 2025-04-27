@@ -27,10 +27,10 @@ Proposals are categorized into **five priority levels**. Each level determines h
 The following outlines the quorum and majority requirements for each proposal track to be voted as Aye, **in cases where the majority of votes are Abstain, the final vote is cast as Abstain**:​
 
 - **Priority 1** (e.g., Root, Fellowship Admin): **≥60% quorum.​**
-- **Priority 2** (e.g., Big Spender, Treasurer): **≥60% quorum​**
+- **Priority 2** (e.g., Big Spender, Treasurer): **≥60% quorum.​**
 - **Priority 3** (Medium Spender): **≥50% quorum, >50% majority.​**
-- **Priority 4** (Small Spender, Big Tipper): **≥35% quorum, >50% majority.​**
-- **Priority 5** (Small Tipper): **≥30% quorum, >50% majority.​**
+- **Priority 4** (Small Spender, Big Tipper): **≥35% quorum, >50% majority of non-abstain votes.​**
+- **Priority 5** (Small Tipper): **≥30% quorum, >50% majority of non-abstain votes.​**
 
 The detailed voting policy will be posted in its entirety on our public [document hub](https://docs.permanence.io/) for new members and the Polkadot community to familiarize themselves. **The policy will be in effect after the internal vote is concluded until further voting by the core members to change parts, or the whole if it. Failure to comply with the voting policy outlined above may result in demotion from the core membership and may, for repeat offenders and after taking an internal vote, result in removal from the DAO.**
 
