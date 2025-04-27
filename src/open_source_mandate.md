@@ -21,10 +21,10 @@ This mandate applies to, but is not limited to:
 
 **Current set of tools** developed by the DAO members and used by the DAO are **fully open-source**:
 
-1. **Opensquare** ((Link)[https://voting.opensquare.io/space/permanence], (GitHub)[https://github.com/opensquare-network/collaboration])
-2. **Telegram bot and supporting services** ((GitHub)[https://github.com/permanence-dao/permanence-dao-services])
-3. **Website** ((Link)[https://permanence.io/], (GitHub)[https://github.com/permanence-dao/permanence-dao-web])
-4. **Documentation site** (Link)[https://docs.permanence.io/], ((GitHub)[https://github.com/permanence-dao/permanence-dao-docs])
+1. **Opensquare** ([Link](https://voting.opensquare.io/space/permanence), [GitHub](https://github.com/opensquare-network/collaboration))
+2. **Telegram bot and supporting services** ([GitHub](https://github.com/permanence-dao/permanence-dao-services))
+3. **Website** ([Link](https://permanence.io/), [GitHub](https://github.com/permanence-dao/permanence-dao-web))
+4. **Documentation site** [Link](https://docs.permanence.io/), ([GitHub](https://github.com/permanence-dao/permanence-dao-docs))
 
 **All future software development** is to be carried out in a repository under the DAO’s **official GitHub organisation**, currently at [https://github.com/permanence-dao](https://github.com/permanence-dao).
 
