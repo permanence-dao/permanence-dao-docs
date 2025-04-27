@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This version of the voting policy was voted on by members in the internal referendum [PDAO #5 - Voting Policy](https://voting.opensquare.io/space/permanence/proposal/QmVtMcH6Xm1xAMiuTMMuyGnWvDFJespWiow81ZztFFNm9G) and is effective from the 26th of April, 2025.
+This version of the **voting policy** was voted on by members in the internal referendum [PDAO #5 - Voting Policy](https://voting.opensquare.io/space/permanence/proposal/QmVtMcH6Xm1xAMiuTMMuyGnWvDFJespWiow81ZztFFNm9G), which **received 7 aye votes and 1 nay vote from 10 members, and is effective from the 26th of April, 2025**.
 
 ### Policy
 
