@@ -2,6 +2,26 @@
 
 ### March 2025
 
+#### Polkadot
+✅ 34 referenda voted on  
+🤖 7 referenda auto-voted (Tip Bot, whitelisted, malicious, default nay)  
+🛠 27 referenda voted on by members  
+🗳 242 off-chain member votes  
+📝 229 feedback submissions  
+📈 **Avg. member participation: 90% (+7% vs. March)**
+💬 **Avg. member feedback rate: 85% (+14% vs. March)**
+
+#### Kusama
+✅ 9 referenda voted on  
+🤖 1 referenda auto-voted (Tip Bot, whitelisted, malicious, default nay)  
+🛠 8 referenda voted on by members  
+🗳 76 off-chain member votes  
+📝 68 feedback submissions  
+📈 **Avg. member participation: 95%**
+💬 **Avg. member feedback rate: 85%**
+
+### March 2025
+
 ✅ 45 referenda voted on  
 🤖 9 referenda auto-voted (Tip Bot, whitelisted, malicious, default nay)  
 🛠 36 referenda voted on by members  
