@@ -8,7 +8,7 @@
 🛠 27 referenda voted on by members  
 🗳 242 off-chain member votes  
 📝 229 feedback submissions  
-📈 **Avg. member participation: 90% (+7% vs. March)** 
+📈 **Avg. member participation: 90% (+7% vs. March)**  
 💬 **Avg. member feedback rate: 85% (+14% vs. March)**
 
 #### Kusama
@@ -17,7 +17,7 @@
 🛠 8 referenda voted on by members  
 🗳 76 off-chain member votes  
 📝 68 feedback submissions  
-📈 **Avg. member participation: 95%** 
+📈 **Avg. member participation: 95%**  
 💬 **Avg. member feedback rate: 85%**
 
 ### March 2025
@@ -55,5 +55,5 @@
 ✅ 65 referenda voted on  
 🗳 414 off-chain member votes  
 📝 299 feedback submissions  
-📈 **Avg. member participation: 64%**
+📈 **Avg. member participation: 64%** 
 💬 **Avg. member feedback rate: 46%**
