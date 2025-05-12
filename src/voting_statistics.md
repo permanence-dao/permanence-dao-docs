@@ -1,6 +1,6 @@
 ## Voting Statistics
 
-### March 2025
+### April 2025
 
 #### Polkadot
 ✅ 34 referenda voted on  
