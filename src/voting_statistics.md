@@ -1,5 +1,29 @@
 ## Voting Statistics
 
+### August 2025
+
+#### Polkadot
+```
+✅  48 on-chain votes
+🛠  33 member-voted
+🤖  15 force-voted 
+🗳 295 off-chain member votes
+📝 266 feedback submissions
+📈 89% avg. member participation (+1% vs. Jul)
+💬 80% avg. member feedback rate (-3% vs. Jul)
+```
+
+#### Kusama
+```
+✅  15 on-chain votes
+🛠   7 member-voted
+🤖   8 force-voted
+🗳  61 off-chain member votes
+📝  55 feedback submissions
+📈 87% avg. member participation (+1% vs. Jul)
+💬 78% avg. member feedback rate (-4% vs. Jul)
+```
+
 ### July 2025
 
 #### Polkadot
