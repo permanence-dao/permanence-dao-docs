@@ -1,5 +1,53 @@
 ## Voting Statistics
 
+### October 2025
+
+#### Polkadot
+```
+✅  23 on-chain votes
+🛠  20 member-voted
+🤖   3 force-voted 
+🗳 133 off-chain member votes
+📝 129 feedback submissions
+📈 83% avg. member participation (-14% vs. Sept)
+💬 81% avg. member feedback rate (-7% vs. Sept)
+```
+
+#### Kusama
+```
+✅  13 on-chain votes
+🛠  11 member-voted
+🤖   2 force-voted
+🗳  63 off-chain member votes
+📝  57 feedback submissions
+📈 71% avg. member participation (-20% vs. Sept)
+💬 65% avg. member feedback rate (-6% vs. Sept)
+```
+
+### September 2025
+
+#### Polkadot
+```
+✅  35 on-chain votes
+🛠  23 member-voted
+🤖  12 force-voted 
+🗳 178 off-chain member votes
+📝 162 feedback submissions
+📈 97% avg. member participation (+8% vs. Aug)
+💬 88% avg. member feedback rate (+8% vs. Aug)
+```
+
+#### Kusama
+```
+✅  17 on-chain votes
+🛠  10 member-voted
+🤖   7 force-voted
+🗳  73 off-chain member votes
+📝  57 feedback submissions
+📈 91% avg. member participation (+2% vs. Aug)
+💬 71% avg. member feedback rate (-9% vs. Aug)
+```
+
 ### August 2025
 
 #### Polkadot
